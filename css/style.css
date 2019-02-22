@@ -58,7 +58,7 @@ body a:focus {
 .navimg {
     border-radius: 50%;
     margin: 0 auto;
-    border: 4px solid rgba(255, 255, 255, 0.39);
+    border: 3px solid rgba(255, 255, 255, 0.39);
 }
 /* CSS Document */
 
@@ -423,7 +423,7 @@ header {
     color: rgba(255, 255, 255, 1);
     font-size: 1.75em;
     line-height: 1.75em;
-    margin-top: 1em;
+    margin-top: 1.5em;
     font-weight: 400;
 }
 .side_top {
@@ -951,6 +951,7 @@ section.gallery {
 
 .service-content {
     margin-left: 1em;
+    margin-top: 1em;
     text-align: left;
 }
 
@@ -978,6 +979,7 @@ section.gallery {
 }
 section.slide-wrapper {
     padding: 4em 4em;
+    border-top: solid 2px #efefef;
 }
 /* //services */
 /* -- Responsive code -- */
